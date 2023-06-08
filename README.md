@@ -1,4 +1,13 @@
 # AspVet
+FİNAL
+Veritabanı bağlantısı yapıldı
+ Web sitesinin mobil uyumluluğu iyileştirildi 
+  küçük çaplı hata düzeltmeleri yapıldı
+  
+![18f4a6a3-4e24-48c5-9f4f-498ed82b5578](https://github.com/Berhuni/AspVet/assets/113802323/550f14bc-5ff0-49cd-8b54-e470fb2ccdda)
+
+![e636ad50-a3ad-4e89-92d8-8a56fbd3088a](https://github.com/Berhuni/AspVet/assets/113802323/f544ac57-30af-4063-9c97-513514f52c82)
+
 vize
 bu proje küçük çaplı bir veteriner işletmesinin internet ortamındaki ihtiyaçlarını karşılamak için tarafımca kodlanmıştır.
 Asp.Net MVC modeli ile geliştirilmiştir.
